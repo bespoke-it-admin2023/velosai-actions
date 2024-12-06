@@ -1,0 +1,14 @@
+{
+  "name": "velosai-actions",
+  "version": "1.0.0",
+  "main": "api/openai.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "engines": {
+    "node": ">=12.x"
+  }
+}
